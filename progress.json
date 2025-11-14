@@ -1,0 +1,208 @@
+{
+  "curriculum_version": "1.0",
+  "student": {
+    "name": "Your Name",
+    "start_date": "2025-11-14",
+    "current_phase": 1,
+    "skill_level": "beginner"
+  },
+  "phase1_foundations": {
+    "status": "not_started",
+    "completion_date": null,
+    "labs": {
+      "lab1_tensors": {
+        "status": "not_started",
+        "exercises_completed": [],
+        "notes": ""
+      },
+      "lab2_modules": {
+        "status": "not_started",
+        "exercises_completed": [],
+        "notes": ""
+      },
+      "lab3_training_loop": {
+        "status": "not_started",
+        "exercises_completed": [],
+        "notes": ""
+      },
+      "lab4_data_loading": {
+        "status": "not_started",
+        "exercises_completed": [],
+        "notes": ""
+      },
+      "lab5_gpu_mixed_precision": {
+        "status": "not_started",
+        "exercises_completed": [],
+        "notes": ""
+      },
+      "lab6_cnn_classifier": {
+        "status": "not_started",
+        "exercises_completed": [],
+        "notes": ""
+      },
+      "checkpoint_project": {
+        "status": "not_started",
+        "accuracy_achieved": null,
+        "notes": ""
+      }
+    },
+    "quiz": {
+      "status": "not_started",
+      "score": null,
+      "passed": false
+    }
+  },
+  "phase2_intermediate": {
+    "status": "not_started",
+    "completion_date": null,
+    "labs": {
+      "lab1_attention": {
+        "status": "not_started",
+        "notes": ""
+      },
+      "lab2_transformer_encoder": {
+        "status": "not_started",
+        "notes": ""
+      },
+      "lab3_transformer_full": {
+        "status": "not_started",
+        "notes": ""
+      },
+      "lab4_custom_losses": {
+        "status": "not_started",
+        "notes": ""
+      },
+      "lab5_distributed_training": {
+        "status": "not_started",
+        "notes": ""
+      },
+      "lab6_model_export": {
+        "status": "not_started",
+        "notes": ""
+      },
+      "checkpoint_project": {
+        "status": "not_started",
+        "notes": ""
+      }
+    },
+    "quiz": {
+      "status": "not_started",
+      "score": null,
+      "passed": false
+    }
+  },
+  "phase3_applied_projects": {
+    "status": "not_started",
+    "completion_date": null,
+    "projects": {
+      "project1_feed_ranking": {
+        "status": "not_started",
+        "milestones": {
+          "data_pipeline": false,
+          "model_architecture": false,
+          "training": false,
+          "evaluation": false,
+          "advanced_features": false
+        },
+        "metrics": {
+          "auc_roc": null,
+          "ndcg_10": null,
+          "map": null
+        },
+        "notes": ""
+      },
+      "project2_video_understanding": {
+        "status": "not_started",
+        "architecture_chosen": null,
+        "milestones": {
+          "data_pipeline": false,
+          "model_implementation": false,
+          "training": false,
+          "evaluation": false,
+          "optimization": false
+        },
+        "metrics": {
+          "top1_accuracy": null,
+          "top5_accuracy": null,
+          "inference_fps": null
+        },
+        "notes": ""
+      },
+      "project3_embedding_retrieval": {
+        "status": "not_started",
+        "milestones": {
+          "data_pipeline": false,
+          "two_tower_model": false,
+          "hard_negatives": false,
+          "faiss_integration": false,
+          "evaluation": false
+        },
+        "metrics": {
+          "recall_at_10": null,
+          "recall_at_100": null,
+          "mrr": null
+        },
+        "notes": ""
+      },
+      "project4_speech": {
+        "status": "not_started",
+        "milestones": {
+          "audio_pipeline": false,
+          "model_implementation": false,
+          "ctc_training": false,
+          "decoding": false,
+          "augmentation": false
+        },
+        "metrics": {
+          "wer": null,
+          "cer": null
+        },
+        "notes": ""
+      },
+      "project5_bonus": {
+        "status": "not_started",
+        "projects_chosen": [],
+        "completed_projects": []
+      }
+    }
+  },
+  "phase4_expert": {
+    "status": "not_started",
+    "completion_date": null,
+    "labs": {
+      "lab1_fsdp_advanced": {
+        "status": "not_started",
+        "notes": ""
+      },
+      "lab2_vector_db": {
+        "status": "not_started",
+        "notes": ""
+      },
+      "lab3_fairness": {
+        "status": "not_started",
+        "notes": ""
+      },
+      "lab4_model_serving": {
+        "status": "not_started",
+        "notes": ""
+      },
+      "lab5_distillation": {
+        "status": "not_started",
+        "notes": ""
+      },
+      "lab6_online_eval": {
+        "status": "not_started",
+        "notes": ""
+      },
+      "capstone_project": {
+        "status": "not_started",
+        "notes": ""
+      }
+    }
+  },
+  "strengths": [],
+  "areas_for_improvement": [],
+  "next_steps": "Start with Phase 1: Read CURRICULUM.md and begin Lab 1 (Tensors & Autograd)",
+  "achievements": [],
+  "total_hours_spent": 0
+}
